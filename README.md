@@ -21,7 +21,7 @@ Pour l'action de pêcher en elle-même, je ne suis pas encore certain de ce que 
 ![Moodboard-Poisson](/media/moodboardPoisson.png)
 
 ### Moodboard objets divers
-![Moodboard-Divers](/media/moodboardDivers.pn
+![Moodboard-Divers](/media/moodboardDivers.png)
 
 ### Moodboard environment
 ![Moodboard-Environment](/media/moodboardEnvironment.png)
