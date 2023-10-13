@@ -47,3 +47,9 @@ Pour l'action de pêcher en elle-même, je ne suis pas encore certain de ce que 
 ## Carte
 
 Pour la carte, comme le mouvement ne risque pas d'être facile à contrôler et que le prix des appats monte constament, je pense que pour créer des situations où le joueur sente qu'il fait des décisions importantes, il faut lui donner une raison de s'éloigner du magasin, La carte sera donc divisée en plusieurs zones, plus celles-ci sont éloignées du magasin, plus les poissons ont de la valeur, mais il faut tenir un juste milieu entre ses excursions vers les endroits éloignés et les retours vers le magasin, car si on prend trop de temps, les prix auront trop montés et on ne pourra plus acheter d'appats. Comme le prix monte toujours, se rattrapper dans ce genre de situation sera difficile, mais possible, car si ça ne le serai pas le jeu devienderai frustrant.
+![Carte-jeu](/media/carteJeu.png)
+
+## Schéma de Programmation
+
+Le schéma de programmation sera séparé entre plusieurs parties, je veux m'assurer que le coeur du jeu (la pêche) soit fonctionnelle sans le rogue-lite, au cas où le projet prenait plus de temps que prévu.
+
