@@ -53,3 +53,5 @@ Pour la carte, comme le mouvement ne risque pas d'être facile à contrôler et 
 
 Le schéma de programmation sera séparé entre plusieurs parties, je veux m'assurer que le coeur du jeu (la pêche) soit fonctionnelle sans le rogue-lite, au cas où le projet prenait plus de temps que prévu.
 
+![Schéma-Prog](/media/schemaProg.drawio.png)
+
