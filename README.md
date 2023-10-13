@@ -1,7 +1,7 @@
 # Project Fishing Rogue-Lite
 
 ## **Résumé en une phrase du jeu** 
-Jeu de pêche en VR avec des éléments de roguelike.
+Jeu de pêche en VR avec des éléments de roguelite.
 
 ## Description écrite
 Pour notre projet final, nous sommes partis de l'idée de créer un jeu de pêche, mais comme je trouvais l'idée trop simple, j'ai décidé que ce serait intéressant si notre jeu aurait des éléments de jeux rogue-lite afin d'en faire une expérience rejouable.
